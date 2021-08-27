@@ -1,0 +1,365 @@
+club_id,name,pretty_name,domestic_competition,league_id,total_market_value,squad_size,average_age,foreigners_number,foreigners_percentage,national_team_players,stadium_name,stadium_seats,net_transfer_record,coach_name,url
+105,sv-darmstadt-98,Sv Darmstadt 98,L1,L1,12.6,30,24.6,6,20.0,1,Merck-Stadion am Böllenfalltor,17400,+£90Th.,Dirk Schuster,https://www.transfermarkt.co.uk/sv-darmstadt-98/startseite/verein/105
+27,fc-bayern-munchen,Fc Bayern Munchen,L1,L1,736.65,26,25.7,14,53.8,17,Allianz Arena,75024,£-38.25m,Pep Guardiola,https://www.transfermarkt.co.uk/fc-bayern-munchen/startseite/verein/27
+28643,waasland-beveren,Waasland Beveren,BE1,BE1,8.55,25,24.3,12,48.0,1,Freethielstadion,13290,+£1.26m,Stijn Vreven,https://www.transfermarkt.co.uk/waasland-beveren/startseite/verein/28643
+86,sv-werder-bremen,Sv Werder Bremen,L1,L1,51.73,27,24.2,8,29.6,3,Wohninvest-Weserstadion,42100,+£28.89m,Viktor Skrypnyk,https://www.transfermarkt.co.uk/sv-werder-bremen/startseite/verein/86
+1304,heracles-almelo,Heracles Almelo,NL1,NL1,12.67,30,23.4,21,70.0,3,Erve Asito,12400,£-225Th.,John Stegeman,https://www.transfermarkt.co.uk/heracles-almelo/startseite/verein/1304
+6996,goverla-uzhgorod,Goverla Uzhgorod,UKR1,UKR1,,0,0.0,0,,0,Avangard,10640,+-0,Vyacheslav Groznyi,https://www.transfermarkt.co.uk/goverla-uzhgorod/startseite/verein/6996
+4128,amkar-perm,Amkar Perm,RU1,RU1,3.67,27,24.6,0,,0,Zvezda,17000,+-0,Gadzhi Gadzhiev,https://www.transfermarkt.co.uk/amkar-perm/startseite/verein/4128
+6994,metalurg-zaporizhya-bis-2016-,Metalurg Zaporizhya Bis 2016,UKR1,UKR1,,0,0.0,0,,0,ZAZ Stadion,15000,+-0,Anatoliy Chantsev,https://www.transfermarkt.co.uk/metalurg-zaporizhya-bis-2016-/startseite/verein/6994
+989,afc-bournemouth,Afc Bournemouth,GB1,GB1,103.82,22,24.5,9,40.9,7,Vitality Stadium,11329,+£24.21m,Eddie Howe,https://www.transfermarkt.co.uk/afc-bournemouth/startseite/verein/989
+28095,fk-ufa,Fk Ufa,RU1,RU1,14.36,25,26.9,8,32.0,3,BetBoom Arena,15132,+£231Th.,Igor Kolyvanov,https://www.transfermarkt.co.uk/fk-ufa/startseite/verein/28095
+2999,hamilton-academical-fc,Hamilton Academical Fc,SC1,SC1,5.49,28,23.4,4,14.3,1,Fountain of Youth Stadium,6018,+-0,Martin Canning,https://www.transfermarkt.co.uk/hamilton-academical-fc/startseite/verein/2999
+7185,panthrakikos-komotini,Panthrakikos Komotini,GR1,GR1,23.0,5,26.3,3,60.0,1,Stadio Komotinis OPAP,5601,+-0,José Manuel Roca,https://www.transfermarkt.co.uk/panthrakikos-komotini/startseite/verein/7185
+4795,fc-ingolstadt-04,Fc Ingolstadt 04,L1,L1,8.64,31,24.9,9,29.0,2,Audi Sportpark,15800,+-0,Ralph Hasenhüttl,https://www.transfermarkt.co.uk/fc-ingolstadt-04/startseite/verein/4795
+47,iraklis-thessaloniki,Iraklis Thessaloniki,GR1,GR1,1.31,10,25.1,2,20.0,0,Kaftanzoglio Stadio,27770,+-0,Nikolaos Papadopoulos,https://www.transfermarkt.co.uk/iraklis-thessaloniki/startseite/verein/47
+2293,konyaspor,Konyaspor,TR1,TR1,20.16,33,26.3,14,42.4,10,Medaş Konya Büyükşehir Stadyumu,42000,£-965Th.,Aykut Kocaman,https://www.transfermarkt.co.uk/konyaspor/startseite/verein/2293
+3216,mersin-idmanyurdu,Mersin Idmanyurdu,TR1,TR1,,0,0.0,0,,0,Mersin Stadyumu,25497,+-0,Mesut Bakkal,https://www.transfermarkt.co.uk/mersin-idmanyurdu/startseite/verein/3216
+169,panionios-athen,Panionios Athen,GR1,GR1,765.0,29,21.7,3,10.3,0,Stadio Neas Smyrnis,11700,+-0,Marinos Ouzounidis,https://www.transfermarkt.co.uk/panionios-athen/startseite/verein/169
+3,1-fc-koln,1 Fc Koln,L1,L1,68.54,30,25.1,12,40.0,5,RheinEnergieStadion,50000,+£19.80m,Peter Stöger,https://www.transfermarkt.co.uk/1-fc-koln/startseite/verein/3
+8970,frosinone-calcio,Frosinone Calcio,IT1,IT1,13.39,32,25.9,9,28.1,2,Benito Stirpe,16227,+-0,Roberto Stellone,https://www.transfermarkt.co.uk/frosinone-calcio/startseite/verein/8970
+126,caykur-rizespor,Caykur Rizespor,TR1,TR1,17.87,30,26.8,13,43.3,5,Çaykur Didi,15332,+-0,Hikmet Karaman,https://www.transfermarkt.co.uk/caykur-rizespor/startseite/verein/126
+800,atalanta-bergamo,Atalanta Bergamo,IT1,IT1,368.64,33,26.1,20,60.6,17,Gewiss Stadium,22512,£-13.59m,Edoardo Reja,https://www.transfermarkt.co.uk/atalanta-bergamo/startseite/verein/800
+6574,us-sassuolo,Us Sassuolo,IT1,IT1,236.52,35,26.7,15,42.9,12,Mapei Stadium - Città del Tricolore,21584,£-2.70m,Eusebio Di Francesco,https://www.transfermarkt.co.uk/us-sassuolo/startseite/verein/6574
+416,fc-turin,Fc Turin,IT1,IT1,135.68,34,25.4,21,61.8,9,Stadio Grande Torino,27994,+£6.12m,Gian Piero Ventura,https://www.transfermarkt.co.uk/fc-turin/startseite/verein/416
+862,chievo-verona,Chievo Verona,IT1,IT1,,0,0.0,0,,0,Marcantonio Bentegodi,31045,+£90Th.,Rolando Maran,https://www.transfermarkt.co.uk/chievo-verona/startseite/verein/862
+252,genua-cfc,Genua Cfc,IT1,IT1,70.47,33,26.9,14,42.4,5,Luigi Ferraris,36599,+£13.23m,Gian Piero Gasperini,https://www.transfermarkt.co.uk/genua-cfc/startseite/verein/252
+1038,sampdoria-genua,Sampdoria Genua,IT1,IT1,121.82,31,27.2,14,45.2,9,Luigi Ferraris,36348,£-12.60m,Walter Zenga,https://www.transfermarkt.co.uk/sampdoria-genua/startseite/verein/1038
+410,udinese-calcio,Udinese Calcio,IT1,IT1,82.13,29,27.9,22,75.9,5,Dacia Arena,25144,+£49.95m,Stefano Colantuono,https://www.transfermarkt.co.uk/udinese-calcio/startseite/verein/410
+190,fc-kopenhagen,Fc Kopenhagen,DK1,DK1,29.7,24,25.9,14,58.3,10,Parken,38065,£-776Th.,Stale Solbakken,https://www.transfermarkt.co.uk/fc-kopenhagen/startseite/verein/190
+276,hellas-verona,Hellas Verona,IT1,IT1,97.07,32,25.9,16,50.0,7,Marcantonio Bentegodi,39211,£-9.90m,Andrea Mandorlini,https://www.transfermarkt.co.uk/hellas-verona/startseite/verein/276
+5,ac-mailand,Ac Mailand,IT1,IT1,387.36,25,25.8,17,68.0,14,Giuseppe Meazza,75923,£-49.14m,Sinisa Mihajlovic,https://www.transfermarkt.co.uk/ac-mailand/startseite/verein/5
+430,ac-florenz,Ac Florenz,IT1,IT1,219.71,33,25.3,17,51.5,13,Artemio Franchi,47282,£-15.89m,Paulo Sousa,https://www.transfermarkt.co.uk/ac-florenz/startseite/verein/430
+12,as-rom,As Rom,IT1,IT1,365.54,42,25.1,28,66.7,20,Olimpico di Roma,73261,£-86.88m,Rudi Garcia,https://www.transfermarkt.co.uk/as-rom/startseite/verein/12
+506,juventus-turin,Juventus Turin,IT1,IT1,548.19,26,27.4,16,61.5,19,Allianz Stadium,41507,£-2.70m,Massimiliano Allegri,https://www.transfermarkt.co.uk/juventus-turin/startseite/verein/506
+749,fc-empoli,Fc Empoli,IT1,IT1,52.22,31,24.2,9,29.0,3,Carlo Castellani,19847,+£17.28m,Marco Giampaolo,https://www.transfermarkt.co.uk/fc-empoli/startseite/verein/749
+5817,sonderjyske,Sonderjyske,DK1,DK1,8.19,24,24.6,9,37.5,3,Sydbank Park,10000,+-0,Jakob Michelsen,https://www.transfermarkt.co.uk/sonderjyske/startseite/verein/5817
+2778,fc-nordsjaelland,Fc Nordsjaelland,DK1,DK1,18.77,26,20.6,15,57.7,0,Right to Dream Park,10300,+£15.12m,Ólafur Helgi Kristjánsson,https://www.transfermarkt.co.uk/fc-nordsjaelland/startseite/verein/2778
+1063,viborg-ff,Viborg Ff,DK1,DK1,6.62,26,23.8,9,34.6,0,Viborg Stadion,9566,+-0,Johnny Mölby,https://www.transfermarkt.co.uk/viborg-ff/startseite/verein/1063
+6195,ssc-neapel,Ssc Neapel,IT1,IT1,446.36,29,26.7,20,69.0,16,Stadio Diego Armando Maradona,54726,£-17.10m,Maurizio Sarri,https://www.transfermarkt.co.uk/ssc-neapel/startseite/verein/6195
+46,inter-mailand,Inter Mailand,IT1,IT1,520.92,31,27.9,20,64.5,20,Giuseppe Meazza,75923,+£149.45m,Roberto Mancini,https://www.transfermarkt.co.uk/inter-mailand/startseite/verein/46
+5724,randers-fc,Randers Fc,DK1,DK1,8.51,23,25.3,9,39.1,2,Cepheus Park Randers,10300,+£720Th.,Colin Todd,https://www.transfermarkt.co.uk/randers-fc/startseite/verein/5724
+678,aarhus-gf,Aarhus Gf,DK1,DK1,14.72,28,25.0,11,39.3,3,Ceres Park,19433,£-1.94m,Morten Wieghorst,https://www.transfermarkt.co.uk/aarhus-gf/startseite/verein/678
+3426,esbjerg-fb,Esbjerg Fb,DK1,DK1,4.7,29,22.3,16,55.2,4,Blue Water Arena,16942,+-0,Niels Frederiksen,https://www.transfermarkt.co.uk/esbjerg-fb/startseite/verein/3426
+865,fc-midtjylland,Fc Midtjylland,DK1,DK1,44.01,38,23.5,17,44.7,11,MCH Arena,11535,+£8.36m,Jess Thorup,https://www.transfermarkt.co.uk/fc-midtjylland/startseite/verein/865
+1025,fc-bologna,Fc Bologna,IT1,IT1,148.59,34,25.3,23,67.6,12,Stadio Renato Dall’Ara,36462,£-24.08m,Delio Rossi,https://www.transfermarkt.co.uk/fc-bologna/startseite/verein/1025
+206,brondby-if,Brondby If,DK1,DK1,21.2,29,24.3,10,34.5,7,Brøndby Stadion,28000,+£4.44m,Thomas Frank,https://www.transfermarkt.co.uk/brondby-if/startseite/verein/206
+21957,ao-platanias,Ao Platanias,GR1,GR1,225.0,9,25.1,2,22.2,0,Dimotiko Gipedo Perivolia,3700,+-0,Georgios Paraschos,https://www.transfermarkt.co.uk/ao-platanias/startseite/verein/21957
+5818,hobro-ik,Hobro Ik,DK1,DK1,3.94,28,23.9,3,10.7,1,DS Arena,7500,+£241Th.,Jonas Dal,https://www.transfermarkt.co.uk/hobro-ik/startseite/verein/5818
+128,ao-xanthi,Ao Xanthi,GR1,GR1,5.74,34,25.9,5,14.7,0,Xanthi Arena,7361,+-0,Razvan Lucescu,https://www.transfermarkt.co.uk/ao-xanthi/startseite/verein/128
+2079,veria-nps,Veria Nps,GR1,GR1,3.12,22,25.8,0,,0,Dimotiko Stadio Verias,6350,+-0,Georgios Georgiadis,https://www.transfermarkt.co.uk/veria-nps/startseite/verein/2079
+2671,pas-giannina,Pas Giannina,GR1,GR1,7.07,28,25.9,12,42.9,3,Stadio Zosimades,7652,£-45Th.,Giannis Petrakis,https://www.transfermarkt.co.uk/pas-giannina/startseite/verein/2671
+6418,panetolikos-gfs,Panetolikos Gfs,GR1,GR1,7.0,31,26.4,12,38.7,1,Gipedo Panetolikou,5230,+£630Th.,Leonel Pontes,https://www.transfermarkt.co.uk/panetolikos-gfs/startseite/verein/6418
+398,lazio-rom,Lazio Rom,IT1,IT1,308.66,39,27.2,31,79.5,13,Olimpico di Roma,73261,£-5.13m,Stefano Pioli,https://www.transfermarkt.co.uk/lazio-rom/startseite/verein/398
+458,palermo-fc,Palermo Fc,IT1,IT1,5.04,24,26.8,4,16.7,0,"Comunale Renzo Barbera ""La Favorita""",36365,+£1.89m,Giuseppe Iachini,https://www.transfermarkt.co.uk/palermo-fc/startseite/verein/458
+2441,aek-athen,Aek Athen,GR1,GR1,32.36,36,25.7,20,55.6,10,Olympiako Stadio Athinon,69618,£-2.22m,Traianos Dellas,https://www.transfermarkt.co.uk/aek-athen/startseite/verein/2441
+1091,paok-thessaloniki,Paok Thessaloniki,GR1,GR1,46.22,33,26.4,23,69.7,9,Toumba Stadium,28703,+£16.34m,Igor Tudor,https://www.transfermarkt.co.uk/paok-thessaloniki/startseite/verein/1091
+28956,ael-kalloni,Ael Kalloni,GR1,GR1,,0,0.0,0,,0,Stadio Mytilinis,4000,+-0,Thalis Theodoridis,https://www.transfermarkt.co.uk/ael-kalloni/startseite/verein/28956
+265,panathinaikos-athen,Panathinaikos Athen,GR1,GR1,25.0,40,24.7,15,37.5,5,Apostolos Nikolaidis,16620,+£180Th.,Giannis Anastasiou,https://www.transfermarkt.co.uk/panathinaikos-athen/startseite/verein/265
+3205,kayserispor,Kayserispor,TR1,TR1,27.5,34,27.0,21,61.8,6,Büyüksehir Belediyesi Kadir Has,32864,+£3.15m,Tolunay Kafkas,https://www.transfermarkt.co.uk/kayserispor/startseite/verein/3205
+6676,asteras-tripolis,Asteras Tripolis,GR1,GR1,8.06,31,25.2,20,64.5,0,Gipedo Theodoros Kolokotronis,7423,+£990Th.,Staikos Vergetis,https://www.transfermarkt.co.uk/asteras-tripolis/startseite/verein/6676
+524,gaziantepspor,Gaziantepspor,TR1,TR1,,0,0.0,0,,0,Gaziantep Stadyumu,33502,+-0,Mutlu Topcu,https://www.transfermarkt.co.uk/gaziantepspor/startseite/verein/524
+2381,sivasspor,Sivasspor,TR1,TR1,24.21,28,29.1,13,46.4,3,Yeni 4 Eylül Stadı,27532,£-900Th.,Sergen Yalcin,https://www.transfermarkt.co.uk/sivasspor/startseite/verein/2381
+173,odense-boldklub,Odense Boldklub,DK1,DK1,10.17,26,25.0,8,30.8,5,Nature Energy Park,15790,+-0,Kent Nielsen,https://www.transfermarkt.co.uk/odense-boldklub/startseite/verein/173
+19771,akhisarspor,Akhisarspor,TR1,TR1,1.62,34,23.4,8,23.5,0,Spor Toto Akhisar Stadyumu,12139,+-0,Cihat Arslan,https://www.transfermarkt.co.uk/akhisarspor/startseite/verein/19771
+1053,aalborg-bk,Aalborg Bk,DK1,DK1,12.42,24,24.9,9,37.5,6,Aalborg Portland Park,13800,£-450Th.,Lars Söndergaard,https://www.transfermarkt.co.uk/aalborg-bk/startseite/verein/1053
+6890,istanbul-basaksehir-fk,Istanbul Basaksehir Fk,TR1,TR1,48.76,34,27.1,14,41.2,12,Başakşehir Fatih Terim Stadium,17156,+£720Th.,Abdullah Avci,https://www.transfermarkt.co.uk/istanbul-basaksehir-fk/startseite/verein/6890
+4102,carpi-fc-1909,Carpi Fc 1909,IT1,IT1,,0,0.0,0,,0,Sandro Cabassi,5510,+£540Th.,Fabrizio Castori,https://www.transfermarkt.co.uk/carpi-fc-1909/startseite/verein/4102
+683,olympiakos-piraus,Olympiakos Piraus,GR1,GR1,101.95,51,24.4,29,56.9,19,Stadio Georgios Karaiskakis,32115,+£3.31m,Marco Silva,https://www.transfermarkt.co.uk/olympiakos-piraus/startseite/verein/683
+2672,apo-levadiakos,Apo Levadiakos,GR1,GR1,4.46,25,25.9,11,44.0,1,Stadio Livadias,5915,+-0,Apostolos Mantzios,https://www.transfermarkt.co.uk/apo-levadiakos/startseite/verein/2672
+20,bursaspor,Bursaspor,TR1,TR1,13.23,37,23.8,8,21.6,2,Bitci Timsah Park,43331,+£855Th.,Ertugrul Saglam,https://www.transfermarkt.co.uk/bursaspor/startseite/verein/20
+449,trabzonspor,Trabzonspor,TR1,TR1,81.23,29,26.2,12,41.4,9,Şenol Güneş Spor Kompleksi,40782,£-3.89m,Ersun Yanal,https://www.transfermarkt.co.uk/trabzonspor/startseite/verein/449
+3060,atromitos-athen,Atromitos Athen,GR1,GR1,10.44,28,26.0,11,39.3,2,Stadio Peristeriou,9050,+-0,Michalis Grigoriou,https://www.transfermarkt.co.uk/atromitos-athen/startseite/verein/3060
+36,fenerbahce-istanbul,Fenerbahce Istanbul,TR1,TR1,101.9,40,26.4,22,55.0,15,Ülker Stadyumu FB Şükrü Saraçoğlu Spor Kompleksi,47834,£-4.10m,Vítor Pereira,https://www.transfermarkt.co.uk/fenerbahce-istanbul/startseite/verein/36
+114,besiktas-istanbul,Besiktas Istanbul,TR1,TR1,82.31,32,27.1,16,50.0,10,Vodafone Park,41188,£-4.01m,Senol Günes,https://www.transfermarkt.co.uk/besiktas-istanbul/startseite/verein/114
+589,antalyaspor,Antalyaspor,TR1,TR1,26.26,32,25.8,13,40.6,4,Antalya Stadyumu,32537,+£437Th.,Yusuf Simsek,https://www.transfermarkt.co.uk/antalyaspor/startseite/verein/589
+2451,inverness-caledonian-thistle-fc,Inverness Caledonian Thistle Fc,SC1,SC1,4.64,21,26.1,5,23.8,0,Tulloch Caledonian Stadium,7750,+£209Th.,John Hughes,https://www.transfermarkt.co.uk/inverness-caledonian-thistle-fc/startseite/verein/2451
+2759,ross-county-fc,Ross County Fc,SC1,SC1,5.02,24,24.0,13,54.2,2,Global Energy Stadium,6541,+-0,Jim McIntyre,https://www.transfermarkt.co.uk/ross-county-fc/startseite/verein/2759
+987,motherwell-fc,Motherwell Fc,SC1,SC1,6.98,26,25.8,12,46.2,2,Fir Park,13750,+-0,Stephen Craigan,https://www.transfermarkt.co.uk/motherwell-fc/startseite/verein/987
+2553,kilmarnock-fc,Kilmarnock Fc,SC1,SC1,4.82,22,26.9,9,40.9,0,"BBSP Stadium, Rugby Park",18128,+-0,Gary Locke,https://www.transfermarkt.co.uk/kilmarnock-fc/startseite/verein/2553
+43,heart-of-midlothian-fc,Heart Of Midlothian Fc,SC1,SC1,8.1,23,26.3,10,43.5,4,Tynecastle Park,20099,+-0,Robbie Neilson,https://www.transfermarkt.co.uk/heart-of-midlothian-fc/startseite/verein/43
+820,genclerbirligi-ankara,Genclerbirligi Ankara,TR1,TR1,7.49,35,24.5,8,22.9,0,Eryaman Stadyumu,20560,+-0,Stuart Baxter,https://www.transfermarkt.co.uk/genclerbirligi-ankara/startseite/verein/820
+10484,kasimpasa,Kasimpasa,TR1,TR1,22.86,34,25.3,16,47.1,3,Recep Tayyip Erdogan Stadyumu,13856,+-0,Riza Calimbay,https://www.transfermarkt.co.uk/kasimpasa/startseite/verein/10484
+511,dundee-fc,Dundee Fc,SC1,SC1,5.42,23,26.9,8,34.8,0,Kilmac Stadium at Dens Park,11850,+-0,Paul Hartley,https://www.transfermarkt.co.uk/dundee-fc/startseite/verein/511
+371,celtic-glasgow,Celtic Glasgow,SC1,SC1,72.41,34,24.5,19,55.9,15,Celtic Park,60832,+£2.36m,Ronny Deila,https://www.transfermarkt.co.uk/celtic-glasgow/startseite/verein/371
+472,ud-las-palmas,Ud Las Palmas,ES1,ES1,12.92,24,26.3,5,20.8,3,Estadio de Gran Canaria,32392,+£1.30m,Paco Herrera,https://www.transfermarkt.co.uk/ud-las-palmas/startseite/verein/472
+370,aberdeen-fc,Aberdeen Fc,SC1,SC1,11.07,24,26.9,12,50.0,6,Pittodrie Stadium,22199,£-205Th.,Derek McInnes,https://www.transfermarkt.co.uk/aberdeen-fc/startseite/verein/370
+141,galatasaray-istanbul,Galatasaray Istanbul,TR1,TR1,88.58,35,26.8,16,45.7,18,Ali Sami Yen Spor Kompleksi Türk Telekom Stadyumu,52223,£-18.00m,Hamza Hamzaoglu,https://www.transfermarkt.co.uk/galatasaray-istanbul/startseite/verein/141
+897,deportivo-la-coruna,Deportivo La Coruna,ES1,ES1,10.44,26,27.7,6,23.1,1,Riazor,32912,+£1.53m,Víctor Sánchez,https://www.transfermarkt.co.uk/deportivo-la-coruna/startseite/verein/897
+825,eskisehirspor,Eskisehirspor,TR1,TR1,1.55,23,23.2,2,8.7,0,Eskişehir Yeni Stadyum,34930,+£15Th.,Ilhan Mayakan,https://www.transfermarkt.co.uk/eskisehirspor/startseite/verein/825
+2944,ankaraspor,Ankaraspor,TR1,TR1,3.89,37,24.6,5,13.5,0,Osmanlı Stadı,19626,+-0,Ugur Tütüneker,https://www.transfermarkt.co.uk/ankaraspor/startseite/verein/2944
+3709,fc-getafe,Fc Getafe,ES1,ES1,141.57,26,26.9,11,42.3,9,Coliseum Alfonso Pérez,16800,£-2.70m,Fran Escribá,https://www.transfermarkt.co.uk/fc-getafe/startseite/verein/3709
+940,celta-vigo,Celta Vigo,ES1,ES1,121.5,20,27.4,8,40.0,5,Balaídos,29000,£-5.58m,Eduardo Berizzo,https://www.transfermarkt.co.uk/celta-vigo/startseite/verein/940
+3368,ud-levante,Ud Levante,ES1,ES1,99.63,27,28.6,7,25.9,4,Ciutat de València,25354,£-1.13m,Lucas Alcaraz,https://www.transfermarkt.co.uk/ud-levante/startseite/verein/3368
+1533,sd-eibar,Sd Eibar,ES1,ES1,22.05,24,28.4,5,20.8,0,Ipurua,8164,£-2.79m,José Luis Mendilibar,https://www.transfermarkt.co.uk/sd-eibar/startseite/verein/1533
+16795,fc-granada,Fc Granada,ES1,ES1,70.92,24,28.0,11,45.8,5,Nuevo Los Cármenes,19336,£-3.60m,José Ramón Sandoval,https://www.transfermarkt.co.uk/fc-granada/startseite/verein/16795
+1084,fc-malaga,Fc Malaga,ES1,ES1,18.63,28,25.3,7,25.0,1,La Rosaleda,30044,+-0,Javi Gracia,https://www.transfermarkt.co.uk/fc-malaga/startseite/verein/1084
+1050,fc-villarreal,Fc Villarreal,ES1,ES1,275.58,29,27.1,10,34.5,10,La Cerámica,23500,£-41.63m,Marcelino,https://www.transfermarkt.co.uk/fc-villarreal/startseite/verein/1050
+681,real-sociedad-san-sebastian,Real Sociedad San Sebastian,ES1,ES1,343.53,27,26.1,6,22.2,6,Reale Arena,39500,£-450Th.,David Moyes,https://www.transfermarkt.co.uk/real-sociedad-san-sebastian/startseite/verein/681
+2578,st-johnstone-fc,St Johnstone Fc,SC1,SC1,8.26,23,26.3,6,26.1,2,McDiarmid Park,10696,+-0,Tommy Wright,https://www.transfermarkt.co.uk/st-johnstone-fc/startseite/verein/2578
+368,fc-sevilla,Fc Sevilla,ES1,ES1,382.41,28,27.9,20,71.4,16,Ramón Sánchez Pizjuan,43883,+£10.80m,Unai Emery,https://www.transfermarkt.co.uk/fc-sevilla/startseite/verein/368
+1049,fc-valencia,Fc Valencia,ES1,ES1,217.26,25,25.4,15,60.0,12,Mestalla,48600,£-180Th.,Nuno Espírito Santo,https://www.transfermarkt.co.uk/fc-valencia/startseite/verein/1049
+2448,sporting-gijon,Sporting Gijon,ES1,ES1,18.81,24,25.3,6,25.0,3,El Molinón - Enrique Castro Quini,30000,+-0,Abelardo,https://www.transfermarkt.co.uk/sporting-gijon/startseite/verein/2448
+1519,dundee-united-fc,Dundee United Fc,SC1,SC1,7.85,26,25.1,9,34.6,1,Tannadice Park,14223,+£1.06m,Jackie McNamara,https://www.transfermarkt.co.uk/dundee-united-fc/startseite/verein/1519
+418,real-madrid,Real Madrid,ES1,ES1,700.65,26,27.6,18,69.2,18,Estadio Alfredo Di Stéfano,9000,+£38.70m,Rafael Benítez,https://www.transfermarkt.co.uk/real-madrid/startseite/verein/418
+18303,fk-oleksandriya,Fk Oleksandriya,UKR1,UKR1,6.95,26,24.6,3,11.5,1,KSK Nika,7000,+-0,Volodymyr Sharan,https://www.transfermarkt.co.uk/fk-oleksandriya/startseite/verein/18303
+6992,chornomorets-odessa,Chornomorets Odessa,UKR1,UKR1,5.51,26,22.8,3,11.5,0,Stadion Chornomorets,34164,+-0,Oleksandr Babych,https://www.transfermarkt.co.uk/chornomorets-odessa/startseite/verein/6992
+13,atletico-madrid,Atletico Madrid,ES1,ES1,656.46,26,26.9,20,76.9,20,Wanda Metropolitano,68456,£-28.80m,Diego Simeone,https://www.transfermarkt.co.uk/atletico-madrid/startseite/verein/13
+16247,pfk-stal-kamyanske,Pfk Stal Kamyanske,UKR1,UKR1,,0,0.0,0,,0,Obolon,5100,+-0,Volodymyr Mazyar,https://www.transfermarkt.co.uk/pfk-stal-kamyanske/startseite/verein/16247
+714,espanyol-barcelona,Espanyol Barcelona,ES1,ES1,64.98,25,26.9,5,20.0,5,RCDE Stadium,40500,£-4.95m,Sergio,https://www.transfermarkt.co.uk/espanyol-barcelona/startseite/verein/714
+621,athletic-bilbao,Athletic Bilbao,ES1,ES1,182.52,28,26.5,1,3.6,2,San Mamés,53289,+-0,Ernesto Valverde,https://www.transfermarkt.co.uk/athletic-bilbao/startseite/verein/621
+6414,metalist-kharkiv,Metalist Kharkiv,UKR1,UKR1,,0,0.0,0,,0,OSK Metalist,38685,+-0,Oleksandr Sevidov,https://www.transfermarkt.co.uk/metalist-kharkiv/startseite/verein/6414
+150,real-betis-sevilla,Real Betis Sevilla,ES1,ES1,166.23,28,28.4,11,39.3,10,Benito Villamarín,59378,+£8.10m,Pepe Mel,https://www.transfermarkt.co.uk/real-betis-sevilla/startseite/verein/150
+4482,volyn-lutsk,Volyn Lutsk,UKR1,UKR1,788.0,22,21.2,0,,0,Stadion Avangard,12080,+-0,Vitaliy Kvartsyanyi,https://www.transfermarkt.co.uk/volyn-lutsk/startseite/verein/4482
+131,fc-barcelona,Fc Barcelona,ES1,ES1,694.53,29,26.0,17,58.6,23,Camp Nou,99354,+£17.55m,Luis Enrique,https://www.transfermarkt.co.uk/fc-barcelona/startseite/verein/131
+338,dynamo-kiew,Dynamo Kiew,UKR1,UKR1,121.59,34,25.5,9,26.5,19,NSK Olimpisky,70050,£-1.69m,Sergiy Rebrov,https://www.transfermarkt.co.uk/dynamo-kiew/startseite/verein/338
+2760,partick-thistle-fc,Partick Thistle Fc,SC1,SC1,3.17,18,26.2,2,11.1,0,The Energy Check Stadium at Firhill,10102,+-0,Alan Archibald,https://www.transfermarkt.co.uk/partick-thistle-fc/startseite/verein/2760
+339,dnipro-dnipropetrovsk,Dnipro Dnipropetrovsk,UKR1,UKR1,,0,0.0,0,,0,Meteor,24381,+-0,Myron Markevych,https://www.transfermarkt.co.uk/dnipro-dnipropetrovsk/startseite/verein/339
+1420,sco-angers,Sco Angers,FR1,FR1,62.51,31,26.0,13,41.9,5,Stade Raymond Kopa,16381,+£9.99m,Stéphane Moulin,https://www.transfermarkt.co.uk/sco-angers/startseite/verein/1420
+595,sc-bastia,Sc Bastia,FR1,FR1,6.98,25,27.9,4,16.0,2,Stade Armand-Cesari,16480,+-0,Ghislain Printant,https://www.transfermarkt.co.uk/sc-bastia/startseite/verein/595
+1095,es-troyes-ac,Es Troyes Ac,FR1,FR1,36.99,30,25.7,17,56.7,5,Stade de l'Aube,21877,£-15.39m,Jean-Marc Furlan,https://www.transfermarkt.co.uk/es-troyes-ac/startseite/verein/1095
+660,shakhtar-donetsk,Shakhtar Donetsk,UKR1,UKR1,160.11,32,25.7,13,40.6,15,NSK Olimpisky,70050,£-36.63m,Mircea Lucescu,https://www.transfermarkt.co.uk/shakhtar-donetsk/startseite/verein/660
+855,ea-guingamp,Ea Guingamp,FR1,FR1,14.49,27,24.3,9,33.3,4,Stade du Roudourou,18120,£-45Th.,Jocelyn Gourvennec,https://www.transfermarkt.co.uk/ea-guingamp/startseite/verein/855
+3558,gfc-ajaccio,Gfc Ajaccio,FR1,FR1,450.0,9,26.6,0,,0,Stade Ange-Casanova,4050,+-0,Thierry Laurey,https://www.transfermarkt.co.uk/gfc-ajaccio/startseite/verein/3558
+415,fc-toulouse,Fc Toulouse,FR1,FR1,29.75,28,23.1,14,50.0,4,Stadium Municipal,33150,+£1.14m,Dominique Arribagé,https://www.transfermarkt.co.uk/fc-toulouse/startseite/verein/415
+1421,stade-reims,Stade Reims,FR1,FR1,84.58,30,24.3,19,63.3,9,Stade Auguste-Delaune,21684,+£10.80m,Olivier Guégan,https://www.transfermarkt.co.uk/stade-reims/startseite/verein/1421
+995,fc-nantes,Fc Nantes,FR1,FR1,79.16,31,26.2,14,45.2,7,Stade de la Beaujoire,37463,+£4.14m,Michel Der Zakarian,https://www.transfermarkt.co.uk/fc-nantes/startseite/verein/995
+2477,karpaty-lviv,Karpaty Lviv,UKR1,UKR1,,0,0.0,0,,0,Stadion Ukraina,28051,+-0,Igor Jovicevic,https://www.transfermarkt.co.uk/karpaty-lviv/startseite/verein/2477
+1158,fc-lorient,Fc Lorient,FR1,FR1,46.13,26,26.4,6,23.1,4,Stade du Moustoir,19010,+£7.20m,Sylvain Ripoll,https://www.transfermarkt.co.uk/fc-lorient/startseite/verein/1158
+1082,losc-lille,Losc Lille,FR1,FR1,240.84,26,25.0,19,73.1,13,Stade Pierre-Mauroy,50186,+£38.17m,Hervé Renard,https://www.transfermarkt.co.uk/losc-lille/startseite/verein/1082
+273,fc-stade-rennes,Fc Stade Rennes,FR1,FR1,209.48,31,23.5,11,35.5,7,Roazhon Park,29778,£-42.30m,Philippe Montanier,https://www.transfermarkt.co.uk/fc-stade-rennes/startseite/verein/273
+40,fc-girondins-bordeaux,Fc Girondins Bordeaux,FR1,FR1,75.47,32,24.6,16,50.0,10,Matmut Atlantique,42052,£-270Th.,Willy Sagnol,https://www.transfermarkt.co.uk/fc-girondins-bordeaux/startseite/verein/40
+2740,vorskla-poltava,Vorskla Poltava,UKR1,UKR1,11.43,23,25.8,8,34.8,5,Vorskla im. Oleksiy Butovsky,23842,+-0,Vasyl Sachko,https://www.transfermarkt.co.uk/vorskla-poltava/startseite/verein/2740
+244,olympique-marseille,Olympique Marseille,FR1,FR1,231.21,31,23.5,17,54.8,6,Orange Vélodrome,67394,£-37.10m,Marcelo Bielsa,https://www.transfermarkt.co.uk/olympique-marseille/startseite/verein/244
+1162,sm-caen,Sm Caen,FR1,FR1,17.87,31,23.9,11,35.5,3,Stade Michel-d'Ornano,20500,+-0,Patrice Garande,https://www.transfermarkt.co.uk/sm-caen/startseite/verein/1162
+1041,olympique-lyon,Olympique Lyon,FR1,FR1,293.54,28,24.6,17,60.7,13,Groupama Stadium,59186,+£28.35m,Hubert Fournier,https://www.transfermarkt.co.uk/olympique-lyon/startseite/verein/1041
+969,montpellier-hsc,Montpellier Hsc,FR1,FR1,104.67,26,25.3,11,42.3,4,Stade de la Mosson,32939,£-180Th.,Rolland Courbis,https://www.transfermarkt.co.uk/montpellier-hsc/startseite/verein/969
+23611,olimpik-donetsk,Olimpik Donetsk,UKR1,UKR1,428.0,22,26.6,1,4.5,0,NTK Bannikova,1678,+-0,Roman Sanzhar,https://www.transfermarkt.co.uk/olimpik-donetsk/startseite/verein/23611
+11126,mordovia-saransk,Mordovia Saransk,RU1,RU1,,0,0.0,0,,0,Mordovia Arena,44442,+-0,Andrey Gordeev,https://www.transfermarkt.co.uk/mordovia-saransk/startseite/verein/11126
+2696,krylya-sovetov-samara,Krylya Sovetov Samara,RU1,RU1,21.47,27,24.5,4,14.8,2,Solidarnost Samara Arena,44918,£-1.20m,Frank Vercauteren,https://www.transfermarkt.co.uk/krylya-sovetov-samara/startseite/verein/2696
+2700,anzhi-makhachkala,Anzhi Makhachkala,RU1,RU1,2.59,31,21.5,0,,0,RDYuSSh MinObrNauki RD Politekh Makhachkala,1600,+-0,Yuri Semin,https://www.transfermarkt.co.uk/anzhi-makhachkala/startseite/verein/2700
+367,rayo-vallecano,Rayo Vallecano,ES1,ES1,28.44,24,26.7,10,41.7,2,Campo de Fútbol de Vallecas,15105,£-1.89m,Paco Jémez,https://www.transfermarkt.co.uk/rayo-vallecano/startseite/verein/367
+162,as-monaco,As Monaco,FR1,FR1,347.27,35,24.3,35,100.0,10,Stade Louis-II,18523,£-3.83m,Leonardo Jardim,https://www.transfermarkt.co.uk/as-monaco/startseite/verein/162
+3725,akhmat-grozny,Akhmat Grozny,RU1,RU1,23.72,27,26.5,7,25.9,5,Akhmat-Arena,30200,+£3.78m,Rashid Rakhimov,https://www.transfermarkt.co.uk/akhmat-grozny/startseite/verein/3725
+11127,ural-ekaterinburg,Ural Ekaterinburg,RU1,RU1,16.56,23,26.8,7,30.4,2,Ekaterinburg Arena,27000,+£99Th.,Nikolay Agafonov,https://www.transfermarkt.co.uk/ural-ekaterinburg/startseite/verein/11127
+2439,kuban-krasnodar,Kuban Krasnodar,RU1,RU1,,0,0.0,0,,0,Kuban Stadium,31654,+-0,Dmitri Khokhlov,https://www.transfermarkt.co.uk/kuban-krasnodar/startseite/verein/2439
+932,lokomotiv-moskau,Lokomotiv Moskau,RU1,RU1,69.98,23,25.8,8,34.8,11,RZD Arena,27320,£-5.41m,Igor Cherevchenko,https://www.transfermarkt.co.uk/lokomotiv-moskau/startseite/verein/932
+16704,fk-krasnodar,Fk Krasnodar,RU1,RU1,108.45,25,27.5,11,44.0,10,Stadion Krasnodar,35179,£-20.24m,Oleg Kononov,https://www.transfermarkt.co.uk/fk-krasnodar/startseite/verein/16704
+618,as-saint-etienne,As Saint Etienne,FR1,FR1,85.77,29,23.7,11,37.9,8,Stade Geoffroy-Guichard,42000,+-0,Christophe Galtier,https://www.transfermarkt.co.uk/as-saint-etienne/startseite/verein/618
+121,dinamo-moskau,Dinamo Moskau,RU1,RU1,63.97,27,24.8,8,29.6,10,VTB-Arena,25716,£-4.88m,Stanislav Cherchesov,https://www.transfermarkt.co.uk/dinamo-moskau/startseite/verein/121
+964,zenit-st-petersburg,Zenit St Petersburg,RU1,RU1,153.63,21,26.7,8,38.1,11,Gazprom Arena,68134,£-8.00m,André Villas-Boas,https://www.transfermarkt.co.uk/zenit-st-petersburg/startseite/verein/964
+1083,fk-rostov,Fk Rostov,RU1,RU1,46.64,29,24.8,9,31.0,8,Rostov Arena,45145,£-405Th.,Kurban Berdyev,https://www.transfermarkt.co.uk/fk-rostov/startseite/verein/1083
+417,ogc-nizza,Ogc Nizza,FR1,FR1,194.81,29,23.3,17,58.6,7,Allianz Riviera,36178,£-16.92m,Claude Puel,https://www.transfermarkt.co.uk/ogc-nizza/startseite/verein/417
+232,spartak-moskau,Spartak Moskau,RU1,RU1,128.52,27,25.8,8,29.6,10,Otkrytie Bank Arena,45360,£-3.42m,Dmitri Alenichev,https://www.transfermarkt.co.uk/spartak-moskau/startseite/verein/232
+405,aston-villa,Aston Villa,GB1,GB1,386.37,25,26.4,13,52.0,11,Villa Park,42682,+£19.71m,Tim Sherwood,https://www.transfermarkt.co.uk/aston-villa/startseite/verein/405
+984,west-bromwich-albion,West Bromwich Albion,GB1,GB1,69.8,25,25.9,8,32.0,5,The Hawthorns,26850,+£17.17m,Tony Pulis,https://www.transfermarkt.co.uk/west-bromwich-albion/startseite/verein/984
+2698,rubin-kazan,Rubin Kazan,RU1,RU1,63.86,24,26.4,10,41.7,8,Ak Bars Arena,45379,+£4.59m,Rinat Bilyaletdinov,https://www.transfermarkt.co.uk/rubin-kazan/startseite/verein/2698
+512,stoke-city,Stoke City,GB1,GB1,41.85,24,26.7,10,41.7,5,bet365 Stadium,30089,+£8.42m,Mark Hughes,https://www.transfermarkt.co.uk/stoke-city/startseite/verein/512
+289,afc-sunderland,Afc Sunderland,GB1,GB1,8.91,23,25.4,12,52.2,2,Stadium of Light,48707,+-0,Dick Advocaat,https://www.transfermarkt.co.uk/afc-sunderland/startseite/verein/289
+2288,swansea-city,Swansea City,GB1,GB1,34.52,27,25.2,21,77.8,5,Liberty Stadium,21088,£-1.80m,Garry Monk,https://www.transfermarkt.co.uk/swansea-city/startseite/verein/2288
+379,west-ham-united,West Ham United,GB1,GB1,255.38,24,28.9,16,66.7,8,London Stadium,60000,£-1.17m,Slaven Bilic,https://www.transfermarkt.co.uk/west-ham-united/startseite/verein/379
+10690,zorya-lugansk,Zorya Lugansk,UKR1,UKR1,16.31,25,25.6,7,28.0,2,Slavutych Arena,11883,+-0,Yuriy Vernydub,https://www.transfermarkt.co.uk/zorya-lugansk/startseite/verein/10690
+180,fc-southampton,Fc Southampton,GB1,GB1,216.18,27,25.5,14,51.9,8,St Mary's Stadium,32384,+£24.12m,Ronald Koeman,https://www.transfermarkt.co.uk/fc-southampton/startseite/verein/180
+1123,norwich-city,Norwich City,GB1,GB1,133.47,33,25.6,23,69.7,14,Carrow Road,27244,£-19.58m,Alex Neil,https://www.transfermarkt.co.uk/norwich-city/startseite/verein/1123
+2410,zska-moskau,Zska Moskau,RU1,RU1,116.82,28,25.0,11,39.3,13,VEB Arena,30457,+£4.17m,Leonid Slutski,https://www.transfermarkt.co.uk/zska-moskau/startseite/verein/2410
+1010,fc-watford,Fc Watford,GB1,GB1,124.25,34,27.2,23,67.6,13,Vicarage Road,21577,£-9.23m,Quique Sánchez Flores,https://www.transfermarkt.co.uk/fc-watford/startseite/verein/1010
+148,tottenham-hotspur,Tottenham Hotspur,GB1,GB1,633.6,26,25.8,18,69.2,18,Tottenham Hotspur Stadium,62062,+£3.78m,Mauricio Pochettino,https://www.transfermarkt.co.uk/tottenham-hotspur/startseite/verein/148
+1003,leicester-city,Leicester City,GB1,GB1,499.59,27,27.1,19,70.4,14,King Power Stadium,32273,£-58.14m,Claudio Ranieri,https://www.transfermarkt.co.uk/leicester-city/startseite/verein/1003
+762,newcastle-united,Newcastle United,GB1,GB1,221.76,26,27.9,14,53.8,8,St James' Park,52338,£-26.46m,Steve McClaren,https://www.transfermarkt.co.uk/newcastle-united/startseite/verein/762
+31,fc-liverpool,Fc Liverpool,GB1,GB1,814.05,32,26.5,21,65.6,20,Anfield,54074,£-16.65m,Brendan Rodgers,https://www.transfermarkt.co.uk/fc-liverpool/startseite/verein/31
+11,fc-arsenal,Fc Arsenal,GB1,GB1,483.3,27,25.9,19,70.4,16,Emirates Stadium,60704,£-49.14m,Arsène Wenger,https://www.transfermarkt.co.uk/fc-arsenal/startseite/verein/11
+281,manchester-city,Manchester City,GB1,GB1,955.62,25,27.1,18,72.0,21,Etihad Stadium,55017,£-79.83m,Manuel Pellegrini,https://www.transfermarkt.co.uk/manchester-city/startseite/verein/281
+873,crystal-palace,Crystal Palace,GB1,GB1,193.91,24,27.5,13,54.2,7,Selhurst Park,26047,£-45.12m,Alan Pardew,https://www.transfermarkt.co.uk/crystal-palace/startseite/verein/873
+133,sc-cambuur-leeuwarden,Sc Cambuur Leeuwarden,NL1,NL1,6.08,19,25.7,3,15.8,0,Cambuurstadion,10250,+-0,Henk de Jong,https://www.transfermarkt.co.uk/sc-cambuur-leeuwarden/startseite/verein/133
+798,sbv-excelsior-rotterdam,Sbv Excelsior Rotterdam,NL1,NL1,3.17,21,21.9,5,23.8,0,Van Donge & De Roo Stadion - Woudestein,4400,+£720Th.,Alfons Groenendijk,https://www.transfermarkt.co.uk/sbv-excelsior-rotterdam/startseite/verein/798
+192,roda-jc-kerkrade,Roda Jc Kerkrade,NL1,NL1,4.91,20,24.3,9,45.0,0,Parkstad Limburg Stadion,19979,+-0,Darije Kalezic,https://www.transfermarkt.co.uk/roda-jc-kerkrade/startseite/verein/192
+631,fc-chelsea,Fc Chelsea,GB1,GB1,898.2,37,26.6,24,64.9,22,Stamford Bridge,40853,£-35.69m,José Mourinho,https://www.transfermarkt.co.uk/fc-chelsea/startseite/verein/631
+583,fc-paris-saint-germain,Fc Paris Saint Germain,FR1,FR1,894.38,35,26.4,23,65.7,19,Parc des Princes,49691,£-60.30m,Laurent Blanc,https://www.transfermarkt.co.uk/fc-paris-saint-germain/startseite/verein/583
+985,manchester-united,Manchester United,GB1,GB1,835.43,30,27.1,18,60.0,22,Old Trafford,74879,£-112.50m,Louis van Gaal,https://www.transfermarkt.co.uk/manchester-united/startseite/verein/985
+1269,pec-zwolle,Pec Zwolle,NL1,NL1,10.67,22,23.8,8,36.4,3,MAC³PARK stadion,14000,+-0,Ron Jans,https://www.transfermarkt.co.uk/pec-zwolle/startseite/verein/1269
+403,willem-ii-tilburg,Willem Ii Tilburg,NL1,NL1,11.05,23,24.6,16,69.6,2,Koning Willem II Stadion,14700,+£5.40m,Jurgen Streppel,https://www.transfermarkt.co.uk/willem-ii-tilburg/startseite/verein/403
+1268,ado-den-haag,Ado Den Haag,NL1,NL1,4.68,21,25.0,2,9.5,0,Cars Jeans Stadion,15000,+£675Th.,Henk Fraser,https://www.transfermarkt.co.uk/ado-den-haag/startseite/verein/1268
+317,fc-twente-enschede,Fc Twente Enschede,NL1,NL1,23.29,29,24.1,10,34.5,5,De Grolsch Veste,30205,+£3.15m,Alfred Schreuder,https://www.transfermarkt.co.uk/fc-twente-enschede/startseite/verein/317
+642,de-graafschap-doetinchem,De Graafschap Doetinchem,NL1,NL1,5.69,28,23.6,2,7.1,1,De Vijverberg,12600,+-0,Jan Vreman,https://www.transfermarkt.co.uk/de-graafschap-doetinchem/startseite/verein/642
+29,fc-everton,Fc Everton,GB1,GB1,445.95,28,26.6,16,57.1,16,Goodison Park,39571,£-900Th.,Roberto Martínez,https://www.transfermarkt.co.uk/fc-everton/startseite/verein/29
+610,ajax-amsterdam,Ajax Amsterdam,NL1,NL1,310.41,26,25.6,14,53.8,18,Johan Cruijff ArenA,54990,+£22.05m,Frank de Boer,https://www.transfermarkt.co.uk/ajax-amsterdam/startseite/verein/610
+234,feyenoord-rotterdam,Feyenoord Rotterdam,NL1,NL1,89.91,29,23.9,13,44.8,11,"Stadion Feyenoord ""De Kuip""",47500,+£2.75m,Giovanni van Bronckhorst,https://www.transfermarkt.co.uk/feyenoord-rotterdam/startseite/verein/234
+499,vitesse-arnheim,Vitesse Arnheim,NL1,NL1,35.69,26,23.3,17,65.4,5,GelreDome,21248,+-0,Peter Bosz,https://www.transfermarkt.co.uk/vitesse-arnheim/startseite/verein/499
+7179,cd-tondela,Cd Tondela,PO1,PO1,15.71,24,24.7,14,58.3,4,Estádio João Cardoso,5000,+-0,Vítor Paneira,https://www.transfermarkt.co.uk/cd-tondela/startseite/verein/7179
+467,nec-nijmegen,Nec Nijmegen,NL1,NL1,10.35,25,24.4,11,44.0,1,Goffertstadion,12500,+-0,Ernest Faber,https://www.transfermarkt.co.uk/nec-nijmegen/startseite/verein/467
+2990,academica-coimbra,Academica Coimbra,PO1,PO1,3.49,29,25.7,12,41.4,3,Estádio Cidade de Coimbra,29744,+-0,José Viterbo,https://www.transfermarkt.co.uk/academica-coimbra/startseite/verein/2990
+979,moreirense-fc,Moreirense Fc,PO1,PO1,15.73,26,25.9,17,65.4,2,E. C. J. de Almeida Freitas,6153,+-0,Miguel Leal,https://www.transfermarkt.co.uk/moreirense-fc/startseite/verein/979
+2503,boavista-porto-fc,Boavista Porto Fc,PO1,PO1,19.69,30,24.0,18,60.0,9,Estádio do Bessa Sec. XXI,28263,£-5.02m,Petit,https://www.transfermarkt.co.uk/boavista-porto-fc/startseite/verein/2503
+1085,vitoria-setubal-fc,Vitoria Setubal Fc,PO1,PO1,3.4,34,24.8,7,20.6,3,Estádio do Bonfim,18642,+-0,Quim Machado,https://www.transfermarkt.co.uk/vitoria-setubal-fc/startseite/verein/1085
+200,fc-utrecht,Fc Utrecht,NL1,NL1,37.78,28,24.9,9,32.1,1,"Stadion ""Galgenwaard""",23750,£-1.08m,Erik ten Hag,https://www.transfermarkt.co.uk/fc-utrecht/startseite/verein/200
+982,cd-nacional,Cd Nacional,PO1,PO1,7.0,26,27.0,13,50.0,2,Estádio da Madeira,5586,+£540Th.,Manuel Machado,https://www.transfermarkt.co.uk/cd-nacional/startseite/verein/982
+8024,fc-arouca,Fc Arouca,PO1,PO1,6.19,25,26.4,19,76.0,2,Estádio Municipal de Arouca,5000,+-0,Lito Vidigal,https://www.transfermarkt.co.uk/fc-arouca/startseite/verein/8024
+1465,gd-estoril-praia,Gd Estoril Praia,PO1,PO1,10.4,29,23.6,17,58.6,3,Estádio António Coimbra da Mota,8000,+-0,Fabiano Soares,https://www.transfermarkt.co.uk/gd-estoril-praia/startseite/verein/1465
+976,cf-uniao-madeira,Cf Uniao Madeira,PO1,PO1,,5,21.2,2,40.0,0,Centro Desportivo da Madeira,2500,+-0,Luís Norton de Matos,https://www.transfermarkt.co.uk/cf-uniao-madeira/startseite/verein/976
+2420,vitoria-guimaraes-sc,Vitoria Guimaraes Sc,PO1,PO1,47.7,33,24.5,16,48.5,4,Estádio D. Afonso Henriques,29865,£-2.43m,Armando Evangelista,https://www.transfermarkt.co.uk/vitoria-guimaraes-sc/startseite/verein/2420
+2425,rio-ave-fc,Rio Ave Fc,PO1,PO1,10.17,25,26.5,13,52.0,2,Estádio dos Arcos,9065,+£1.98m,Pedro Martins,https://www.transfermarkt.co.uk/rio-ave-fc/startseite/verein/2425
+202,fc-groningen,Fc Groningen,NL1,NL1,24.12,26,23.6,10,38.5,3,Euroborg,22550,£-2.34m,Erwin van de Looi,https://www.transfermarkt.co.uk/fc-groningen/startseite/verein/202
+1075,sc-braga,Sc Braga,PO1,PO1,113.09,36,25.8,15,41.7,3,Estádio Municipal de Braga,30286,+£7.77m,Paulo Fonseca,https://www.transfermarkt.co.uk/sc-braga/startseite/verein/1075
+294,benfica-lissabon,Benfica Lissabon,PO1,PO1,292.05,33,26.5,20,60.6,11,Estádio da Luz,65000,+£9.45m,Rui Vitória,https://www.transfermarkt.co.uk/benfica-lissabon/startseite/verein/294
+720,fc-porto,Fc Porto,PO1,PO1,247.59,30,26.1,15,50.0,11,Estádio do Dragão,50399,+£495Th.,Julen Lopetegui,https://www.transfermarkt.co.uk/fc-porto/startseite/verein/720
+2457,belenenses-sad,Belenenses Sad,PO1,PO1,11.7,25,23.6,11,44.0,1,Estádio Nacional do Jamor,37593,+£270Th.,Ricardo Sá Pinto,https://www.transfermarkt.co.uk/belenenses-sad/startseite/verein/2457
+306,sc-heerenveen,Sc Heerenveen,NL1,NL1,29.72,24,23.8,8,33.3,2,Abe Lenstra Stadion,27224,£-540Th.,Dwight Lodeweges,https://www.transfermarkt.co.uk/sc-heerenveen/startseite/verein/306
+968,kvc-westerlo,Kvc Westerlo,BE1,BE1,7.74,29,24.7,16,55.2,2,Het Kuipje,8035,£-450Th.,Harm van Veldhoven,https://www.transfermarkt.co.uk/kvc-westerlo/startseite/verein/968
+336,sporting-lissabon,Sporting Lissabon,PO1,PO1,206.55,29,24.4,13,44.8,11,Estádio José Alvalade XXI,50080,£-4.95m,Jorge Jesus,https://www.transfermarkt.co.uk/sporting-lissabon/startseite/verein/336
+29228,royal-excel-mouscron,Royal Excel Mouscron,BE1,BE1,6.19,30,26.1,15,50.0,2,Le Canonnier,10830,+-0,Cedomir Janevski,https://www.transfermarkt.co.uk/royal-excel-mouscron/startseite/verein/29228
+2861,kv-oostende,Kv Oostende,BE1,BE1,22.82,22,23.3,14,63.6,2,Diaz Arena,8432,£-540Th.,Yves Vanderhaeghe,https://www.transfermarkt.co.uk/kv-oostende/startseite/verein/2861
+1301,cs-maritimo,Cs Maritimo,PO1,PO1,13.12,32,25.7,19,59.4,3,Estádio do Marítimo,10932,+-0,Ivo Vieira,https://www.transfermarkt.co.uk/cs-maritimo/startseite/verein/1301
+475,vv-st-truiden,Vv St Truiden,BE1,BE1,16.4,29,25.3,16,55.2,4,Stayen,14600,£-180Th.,Yannick Ferrera,https://www.transfermarkt.co.uk/vv-st-truiden/startseite/verein/475
+2995,fc-pacos-de-ferreira,Fc Pacos De Ferreira,PO1,PO1,19.82,31,25.1,15,48.4,1,Estádio Capital do Móvel,9200,+-0,Jorge Simão,https://www.transfermarkt.co.uk/fc-pacos-de-ferreira/startseite/verein/2995
+2727,oud-heverlee-leuven,Oud Heverlee Leuven,BE1,BE1,24.39,27,25.0,13,48.1,6,King Power at Den Dreef Stadion,10020,£-900Th.,Jacky Mathijssen,https://www.transfermarkt.co.uk/oud-heverlee-leuven/startseite/verein/2727
+383,psv-eindhoven,Psv Eindhoven,NL1,NL1,140.0,29,25.0,20,69.0,11,Philips Stadion,35000,+£40.05m,Phillip Cocu,https://www.transfermarkt.co.uk/psv-eindhoven/startseite/verein/383
+1184,krc-genk,Krc Genk,BE1,BE1,116.06,27,23.2,18,66.7,11,Luminus Arena,24956,£-720Th.,Peter Maes,https://www.transfermarkt.co.uk/krc-genk/startseite/verein/1184
+498,ksc-lokeren,Ksc Lokeren,BE1,BE1,,0,0.0,0,,0,Daknamstadion,12000,+-0,Bob Peeters,https://www.transfermarkt.co.uk/ksc-lokeren/startseite/verein/498
+354,kv-mechelen,Kv Mechelen,BE1,BE1,20.39,29,25.5,11,37.9,3,AFAS Stadion,16672,+£6.53m,Aleksandar Jankovic,https://www.transfermarkt.co.uk/kv-mechelen/startseite/verein/354
+601,kv-kortrijk,Kv Kortrijk,BE1,BE1,16.38,25,25.6,17,68.0,5,Guldensporenstadion,9399,£-450Th.,Johan Walem,https://www.transfermarkt.co.uk/kv-kortrijk/startseite/verein/601
+1090,az-alkmaar,Az Alkmaar,NL1,NL1,80.15,27,23.6,10,37.0,10,AFAS Stadion,17023,+£27.05m,John van den Brom,https://www.transfermarkt.co.uk/az-alkmaar/startseite/verein/1090
+3057,standard-luttich,Standard Luttich,BE1,BE1,54.34,29,23.5,16,55.2,10,Maurice Dufrasne Stadion,27670,+£17.55m,Slavoljub Muslin,https://www.transfermarkt.co.uk/standard-luttich/startseite/verein/3057
+44,hertha-bsc,Hertha Bsc,L1,L1,159.08,28,26.0,16,57.1,9,Olympiastadion Berlin,74649,+£8.46m,Pál Dárdai,https://www.transfermarkt.co.uk/hertha-bsc/startseite/verein/44
+42,hannover-96,Hannover 96,L1,L1,19.85,29,25.8,9,31.0,5,HDI-Arena,49000,£-45Th.,Michael Frontzeck,https://www.transfermarkt.co.uk/hannover-96/startseite/verein/42
+172,rsc-charleroi,Rsc Charleroi,BE1,BE1,27.34,26,23.8,14,53.8,8,Stade du Pays de Charleroi,15000,£-2.43m,Felice Mazzu,https://www.transfermarkt.co.uk/rsc-charleroi/startseite/verein/172
+58,rsc-anderlecht,Rsc Anderlecht,BE1,BE1,84.6,39,23.5,19,48.7,11,Lotto Park,21500,+£8.51m,Besnik Hasi,https://www.transfermarkt.co.uk/rsc-anderlecht/startseite/verein/58
+167,fc-augsburg,Fc Augsburg,L1,L1,85.73,28,25.9,17,60.7,9,WWK ARENA,30660,+£4.41m,Markus Weinzierl,https://www.transfermarkt.co.uk/fc-augsburg/startseite/verein/167
+24,eintracht-frankfurt,Eintracht Frankfurt,L1,L1,202.14,30,25.9,20,66.7,13,Deutsche Bank Park,51500,+£18.23m,Armin Veh,https://www.transfermarkt.co.uk/eintracht-frankfurt/startseite/verein/24
+79,vfb-stuttgart,Vfb Stuttgart,L1,L1,149.0,31,23.5,16,51.6,4,Mercedes-Benz Arena,60449,+£25.56m,Alexander Zorniger,https://www.transfermarkt.co.uk/vfb-stuttgart/startseite/verein/79
+15,bayer-04-leverkusen,Bayer 04 Leverkusen,L1,L1,310.73,29,24.8,20,69.0,14,BayArena,30210,£-6.62m,Roger Schmidt,https://www.transfermarkt.co.uk/bayer-04-leverkusen/startseite/verein/15
+3508,sv-zulte-waregem,Sv Zulte Waregem,BE1,BE1,17.8,27,25.0,13,48.1,3,Regenboogstadion,12250,+£270Th.,Francky Dury,https://www.transfermarkt.co.uk/sv-zulte-waregem/startseite/verein/3508
+82,vfl-wolfsburg,Vfl Wolfsburg,L1,L1,256.03,36,24.7,23,63.9,11,Volkswagen Arena,30000,£-32.31m,Dieter Hecking,https://www.transfermarkt.co.uk/vfl-wolfsburg/startseite/verein/82
+533,tsg-1899-hoffenheim,Tsg 1899 Hoffenheim,L1,L1,184.46,33,25.7,20,60.6,16,PreZero Arena,30150,+-0,Markus Gisdol,https://www.transfermarkt.co.uk/tsg-1899-hoffenheim/startseite/verein/533
+18,borussia-monchengladbach,Borussia Monchengladbach,L1,L1,270.72,28,25.3,17,60.7,11,Stadion im Borussia-Park,54022,£-12.15m,Lucien Favre,https://www.transfermarkt.co.uk/borussia-monchengladbach/startseite/verein/18
+41,hamburger-sv,Hamburger Sv,L1,L1,32.2,27,24.8,8,29.6,0,Volksparkstadion,57000,+£5.36m,Bruno Labbadia,https://www.transfermarkt.co.uk/hamburger-sv/startseite/verein/41
+16,borussia-dortmund,Borussia Dortmund,L1,L1,515.39,35,24.6,19,54.3,16,SIGNAL IDUNA PARK,81365,+£51.08m,Thomas Tuchel,https://www.transfermarkt.co.uk/borussia-dortmund/startseite/verein/16
+39,1-fsv-mainz-05,1 Fsv Mainz 05,L1,L1,93.24,28,25.1,14,50.0,6,Mewa Arena,34000,+£720Th.,Martin Schmidt,https://www.transfermarkt.co.uk/1-fsv-mainz-05/startseite/verein/39
+157,kaa-gent,Kaa Gent,BE1,BE1,47.59,31,26.0,18,58.1,11,Ghelamco Arena,19999,+£20.07m,Hein Vanhaezebrouck,https://www.transfermarkt.co.uk/kaa-gent/startseite/verein/157
+2282,fc-brugge,Fc Brugge,BE1,BE1,108.32,24,24.7,13,54.2,7,Jan-Breydel-Stadion,29062,+£10.80m,Michel Preud'homme,https://www.transfermarkt.co.uk/fc-brugge/startseite/verein/2282
+33,fc-schalke-04,Fc Schalke 04,L1,L1,71.35,30,25.5,18,60.0,8,Veltins-Arena,62271,+£27.86m,André Breitenreiter,https://www.transfermarkt.co.uk/fc-schalke-04/startseite/verein/33
+641,fc-middlesbrough,Fc Middlesbrough,GB1,GB1,36.36,24,25.9,5,20.8,1,Riverside Stadium,33746,£-783Th.,Aitor Karanka,https://www.transfermarkt.co.uk/fc-middlesbrough/startseite/verein/641
+3008,hull-city,Hull City,GB1,GB1,9.5,25,24.5,8,32.0,1,KCOM Stadium,24983,+-0,Steve Bruce,https://www.transfermarkt.co.uk/hull-city/startseite/verein/3008
+1132,fc-burnley,Fc Burnley,GB1,GB1,116.19,23,29.4,9,39.1,7,Turf Moor,21994,£-4.23m,Sean Dyche,https://www.transfermarkt.co.uk/fc-burnley/startseite/verein/1132
+3691,tom-tomsk,Tom Tomsk,RU1,RU1,4.37,24,24.7,1,4.2,0,Trud,10028,£-31Th.,Valeri Petrakov,https://www.transfermarkt.co.uk/tom-tomsk/startseite/verein/3691
+8838,zirka-kropyvnytskyi,Zirka Kropyvnytskyi,UKR1,UKR1,,0,0.0,0,,0,Zirka,14628,+-0,Sergiy Lavrynenko,https://www.transfermarkt.co.uk/zirka-kropyvnytskyi/startseite/verein/8838
+1159,as-nancy-lorraine,As Nancy Lorraine,FR1,FR1,9.63,19,24.8,8,42.1,1,Stade Marcel-Picot,20087,+-0,Pablo Correa,https://www.transfermarkt.co.uk/as-nancy-lorraine/startseite/verein/1159
+2969,dijon-fco,Dijon Fco,FR1,FR1,41.31,31,25.4,16,51.6,6,Stade Gaston-Gérard,16098,+-0,Olivier Dall'Oglio,https://www.transfermarkt.co.uk/dijon-fco/startseite/verein/2969
+347,fc-metz,Fc Metz,FR1,FR1,78.66,28,24.5,18,64.3,10,Stade Saint-Symphorien,26700,+£3.69m,Philippe Hinschberger,https://www.transfermarkt.co.uk/fc-metz/startseite/verein/347
+14589,fk-orenburg,Fk Orenburg,RU1,RU1,7.72,24,25.7,5,20.8,1,Gazovik,7500,+£176Th.,Robert Evdokimov,https://www.transfermarkt.co.uk/fk-orenburg/startseite/verein/14589
+3729,arsenal-tula,Arsenal Tula,RU1,RU1,21.78,27,27.5,11,40.7,7,Arsenal,19241,£-126Th.,Sergey Pavlov,https://www.transfermarkt.co.uk/arsenal-tula/startseite/verein/3729
+3349,cd-feirense,Cd Feirense,PO1,PO1,5.33,27,25.3,14,51.9,2,Estádio Marcolino de Castro,5401,+£1.08m,José Mota,https://www.transfermarkt.co.uk/cd-feirense/startseite/verein/3349
+331,ca-osasuna,Ca Osasuna,ES1,ES1,73.89,27,28.2,4,14.8,1,El Sadar,23576,£-7.83m,Enrique Martín,https://www.transfermarkt.co.uk/ca-osasuna/startseite/verein/331
+1108,deportivo-alaves,Deportivo Alaves,ES1,ES1,58.05,28,26.7,7,25.0,5,Mendizorrotza,19840,+£3.15m,Mauricio Pellegrino,https://www.transfermarkt.co.uk/deportivo-alaves/startseite/verein/1108
+1244,cd-leganes,Cd Leganes,ES1,ES1,22.73,22,26.7,7,31.8,2,Municipal de Butarque,12454,+-0,Asier Garitano,https://www.transfermarkt.co.uk/cd-leganes/startseite/verein/1244
+1245,kas-eupen,Kas Eupen,BE1,BE1,13.79,28,25.0,17,60.7,3,Kehrweg-Stadion,8331,+-0,Jordi Condom,https://www.transfermarkt.co.uk/kas-eupen/startseite/verein/1245
+3325,gd-chaves,Gd Chaves,PO1,PO1,3.17,24,27.5,12,50.0,2,Estádio Municipal Eng.º Manuel Branco Teixeira,9000,+-0,Jorge Simão,https://www.transfermarkt.co.uk/gd-chaves/startseite/verein/3325
+468,sparta-rotterdam,Sparta Rotterdam,NL1,NL1,13.64,21,26.2,6,28.6,3,"Sparta-stadion ""Het Kasteel""",11026,+-0,Alex Pastoor,https://www.transfermarkt.co.uk/sparta-rotterdam/startseite/verein/468
+1435,go-ahead-eagles-deventer,Go Ahead Eagles Deventer,NL1,NL1,4.82,24,23.5,8,33.3,1,De Adelaarshorst,9909,+£1.71m,Hans de Koning,https://www.transfermarkt.co.uk/go-ahead-eagles-deventer/startseite/verein/1435
+60,sc-freiburg,Sc Freiburg,L1,L1,119.39,26,25.3,10,38.5,6,SC-Stadion,34700,+-0,Christian Streich,https://www.transfermarkt.co.uk/sc-freiburg/startseite/verein/60
+23826,rasenballsport-leipzig,Rasenballsport Leipzig,L1,L1,506.34,32,24.2,24,75.0,18,Red Bull Arena,42146,+£344Th.,Ralph Hasenhüttl,https://www.transfermarkt.co.uk/rasenballsport-leipzig/startseite/verein/23826
+1390,cagliari-calcio,Cagliari Calcio,IT1,IT1,139.03,31,25.9,17,54.8,9,Unipol Domus,16416,£-8.10m,Massimo Rastelli,https://www.transfermarkt.co.uk/cagliari-calcio/startseite/verein/1390
+4083,fc-crotone,Fc Crotone,IT1,IT1,25.58,26,24.7,12,46.2,5,Ezio Scida,16640,£-1.13m,Davide Nicola,https://www.transfermarkt.co.uk/fc-crotone/startseite/verein/4083
+1506,kardemir-karabukspor,Kardemir Karabukspor,TR1,TR1,653.0,25,21.3,0,,0,Dr. Necmettin Şeyhoğlu,12400,+-0,Igor Tudor,https://www.transfermarkt.co.uk/kardemir-karabukspor/startseite/verein/1506
+6,adanaspor,Adanaspor,TR1,TR1,4.05,34,25.0,10,29.4,1,Yeni Adana Stadyumu,33000,+-0,Engin Ipekoglu,https://www.transfermarkt.co.uk/adanaspor/startseite/verein/6
+2414,ac-horsens,Ac Horsens,DK1,DK1,4.55,21,24.8,4,19.0,1,Casa Arena Horsens,10400,+-0,Bo Henriksen,https://www.transfermarkt.co.uk/ac-horsens/startseite/verein/2414
+1177,silkeborg-if,Silkeborg If,DK1,DK1,6.3,28,23.1,4,14.3,2,JYSK Park,10000,+-0,Peter Sörensen,https://www.transfermarkt.co.uk/silkeborg-if/startseite/verein/1177
+369,lyngby-bk,Lyngby Bk,DK1,DK1,5.06,26,24.4,3,11.5,1,Lyngby Stadion,10000,+£1.08m,David Nielsen,https://www.transfermarkt.co.uk/lyngby-bk/startseite/verein/369
+11282,alanyaspor,Alanyaspor,TR1,TR1,33.39,33,25.9,11,33.3,4,Bahçeşehir Okulları Stadyumu,10128,+£146Th.,Hüseyin Kalpar,https://www.transfermarkt.co.uk/alanyaspor/startseite/verein/11282
+5219,aok-kerkyra,Aok Kerkyra,GR1,GR1,9.0,9,22.2,2,22.2,0,Ethniko Stadio Kerkyras,3000,+-0,Michalis Grigoriou,https://www.transfermarkt.co.uk/aok-kerkyra/startseite/verein/5219
+4603,ae-larisa,Ae Larisa,GR1,GR1,6.26,35,24.4,8,22.9,2,Stadio Alkazar,13108,+£95Th.,Angelos Anastasiadis,https://www.transfermarkt.co.uk/ae-larisa/startseite/verein/4603
+2921,delfino-pescara-1936,Delfino Pescara 1936,IT1,IT1,6.39,30,24.0,11,36.7,1,Adriatico,20476,+£2.48m,Massimo Oddo,https://www.transfermarkt.co.uk/delfino-pescara-1936/startseite/verein/2921
+124,glasgow-rangers,Glasgow Rangers,SC1,SC1,95.67,32,27.2,25,78.1,14,Ibrox Stadium,50987,+-0,Mark Warburton,https://www.transfermarkt.co.uk/glasgow-rangers/startseite/verein/124
+1110,huddersfield-town,Huddersfield Town,GB1,GB1,30.69,28,25.4,8,28.6,2,John Smith's Stadium,24500,+-0,David Wagner,https://www.transfermarkt.co.uk/huddersfield-town/startseite/verein/1110
+1237,brighton-amp-hove-albion,Brighton Amp Hove Albion,GB1,GB1,251.19,32,25.4,22,68.8,15,AMEX Stadium,30666,£-19.71m,Chris Hughton,https://www.transfermarkt.co.uk/brighton-amp-hove-albion/startseite/verein/1237
+667,rc-strassburg-alsace,Rc Strassburg Alsace,FR1,FR1,70.16,24,26.2,13,54.2,5,Stade de la Meinau,29000,+£13.05m,Thierry Laurey,https://www.transfermarkt.co.uk/rc-strassburg-alsace/startseite/verein/667
+1416,amiens-sc,Amiens Sc,FR1,FR1,18.09,29,24.1,17,58.6,9,Stade de la Licorne,12999,+£5.40m,Christophe Pélissier,https://www.transfermarkt.co.uk/amiens-sc/startseite/verein/1416
+40426,fk-tosno,Fk Tosno,RU1,RU1,,0,0.0,0,,0,Petrovsky,20985,+-0,Dmitri Parfenov,https://www.transfermarkt.co.uk/fk-tosno/startseite/verein/40426
+3690,ska-khabarovsk,Ska Khabarovsk,RU1,RU1,5.85,29,25.2,5,17.2,1,Lenin Stadion,15200,+£26Th.,Aleksey Poddubskiy,https://www.transfermarkt.co.uk/ska-khabarovsk/startseite/verein/3690
+7378,portimonense-sc,Portimonense Sc,PO1,PO1,16.74,27,25.7,20,74.1,4,Portimonense Estádio,6000,+£2.25m,Vítor Oliveira,https://www.transfermarkt.co.uk/portimonense-sc/startseite/verein/7378
+3336,desportivo-aves,Desportivo Aves,PO1,PO1,180.0,1,26.5,1,100.0,0,Estádio CD das Aves,5441,+-0,Ricardo Soares,https://www.transfermarkt.co.uk/desportivo-aves/startseite/verein/3336
+12321,fc-girona,Fc Girona,ES1,ES1,18.81,22,27.1,10,45.5,1,Municipal de Montilivi,11286,+£630Th.,Pablo Machín,https://www.transfermarkt.co.uk/fc-girona/startseite/verein/12321
+1426,vvv-venlo,Vvv Venlo,NL1,NL1,6.35,20,24.1,6,30.0,1,Covebo Stadion - De Koel,8000,+-0,Maurice Steijn,https://www.transfermarkt.co.uk/vvv-venlo/startseite/verein/1426
+132,nac-breda,Nac Breda,NL1,NL1,5.85,22,24.3,7,31.8,3,Rat Verlegh Stadion,19000,+-0,Jo Jansen,https://www.transfermarkt.co.uk/nac-breda/startseite/verein/132
+1096,royal-antwerpen-fc,Royal Antwerpen Fc,BE1,BE1,41.63,30,25.1,16,53.3,5,De Bosuil,15402,£-9.45m,László Bölöni,https://www.transfermarkt.co.uk/royal-antwerpen-fc/startseite/verein/1096
+26459,nk-veres-rivne,Nk Veres Rivne,UKR1,UKR1,5.13,27,27.1,1,3.7,0,Avangard,12080,+-0,Yuriy Virt,https://www.transfermarkt.co.uk/nk-veres-rivne/startseite/verein/26459
+6993,fk-mariupol,Fk Mariupol,UKR1,UKR1,6.05,21,22.2,0,,0,Stadion im. Volodymyra Boyko,12680,+-0,Oleksandr Sevidov,https://www.transfermarkt.co.uk/fk-mariupol/startseite/verein/6993
+2722,spal,Spal,IT1,IT1,17.84,23,23.4,8,34.8,1,Paolo Mazza,16134,+£5.85m,Leonardo Semplici,https://www.transfermarkt.co.uk/spal/startseite/verein/2722
+3999,pas-lamia-1964,Pas Lamia 1964,GR1,GR1,7.56,35,27.6,12,34.3,3,"Stadio Lamia ""Athanasios Diakos""",5500,+-0,Babis Tennes,https://www.transfermarkt.co.uk/pas-lamia-1964/startseite/verein/3999
+19789,yeni-malatyaspor,Yeni Malatyaspor,TR1,TR1,17.46,31,24.7,12,38.7,4,Yeni Malatya Stadyumu,25745,£-494Th.,Ertugrul Saglam,https://www.transfermarkt.co.uk/yeni-malatyaspor/startseite/verein/19789
+1467,goztepe,Goztepe,TR1,TR1,24.73,32,25.0,10,31.3,2,Gürsel Aksel Stadyumu,19713,£-1.35m,Tamer Tuna,https://www.transfermarkt.co.uk/goztepe/startseite/verein/1467
+441,apollon-smyrnis,Apollon Smyrnis,GR1,GR1,5.38,22,27.6,9,40.9,1,"Gipedo Rizoupolis ""Georgios Kamaras""",14200,+-0,Apostolos Mantzios,https://www.transfermarkt.co.uk/apollon-smyrnis/startseite/verein/441
+4171,benevento-calcio,Benevento Calcio,IT1,IT1,23.78,32,25.7,12,37.5,5,Ciro Vigorito,16867,+£720Th.,Marco Baroni,https://www.transfermarkt.co.uk/benevento-calcio/startseite/verein/4171
+903,hibernian-fc,Hibernian Fc,SC1,SC1,16.79,24,26.2,9,37.5,6,Easter Road Stadium,20250,£-209Th.,Neil Lennon,https://www.transfermarkt.co.uk/hibernian-fc/startseite/verein/903
+22110,fc-helsingor,Fc Helsingor,DK1,DK1,3.56,22,26.2,5,22.7,2,Helsingør Ny Stadion,4000,+-0,Christian Lönstrup,https://www.transfermarkt.co.uk/fc-helsingor/startseite/verein/22110
+366,real-valladolid,Real Valladolid,ES1,ES1,52.25,35,27.6,9,25.7,4,Estadio Nuevo José Zorrilla,27618,£-1.80m,Sergio,https://www.transfermarkt.co.uk/real-valladolid/startseite/verein/366
+5358,sd-huesca,Sd Huesca,ES1,ES1,27.0,20,27.4,5,25.0,1,El Alcoraz,7800,+-0,Leo Franco,https://www.transfermarkt.co.uk/sd-huesca/startseite/verein/5358
+1160,nimes-olympique,Nimes Olympique,FR1,FR1,35.15,23,24.4,11,47.8,8,Stade des Costières,18364,+£5.67m,Bernard Blaquart,https://www.transfermarkt.co.uk/nimes-olympique/startseite/verein/1160
+603,cardiff-city,Cardiff City,GB1,GB1,36.77,25,26.2,21,84.0,7,Cardiff City Stadium,33280,+£900Th.,Neil Warnock,https://www.transfermarkt.co.uk/cardiff-city/startseite/verein/603
+543,wolverhampton-wanderers,Wolverhampton Wanderers,GB1,GB1,369.59,31,25.2,27,87.1,16,Molineux Stadium,32050,£-13.32m,Nuno Espírito Santo,https://www.transfermarkt.co.uk/wolverhampton-wanderers/startseite/verein/543
+2423,cd-santa-clara,Cd Santa Clara,PO1,PO1,16.7,26,26.4,15,57.7,2,Estádio de São Miguel,15000,+£1.98m,João Henriques,https://www.transfermarkt.co.uk/cd-santa-clara/startseite/verein/2423
+931,fc-fulham,Fc Fulham,GB1,GB1,148.55,28,27.5,21,75.0,13,Craven Cottage,19000,£-11.97m,Slavisa Jokanovic,https://www.transfermarkt.co.uk/fc-fulham/startseite/verein/931
+1283,fc-emmen,Fc Emmen,NL1,NL1,7.16,23,23.9,6,26.1,3,De Oude Meerdijk,8309,+£180Th.,Dick Lukkien,https://www.transfermarkt.co.uk/fc-emmen/startseite/verein/1283
+385,fortuna-sittard,Fortuna Sittard,NL1,NL1,10.28,23,24.0,14,60.9,2,Fortuna Sittard Stadion,12500,+-0,René Eijer,https://www.transfermarkt.co.uk/fortuna-sittard/startseite/verein/385
+520,cercle-brugge,Cercle Brugge,BE1,BE1,16.83,28,24.1,17,60.7,5,Jan-Breydel-Stadion,29062,£-900Th.,Laurent Guyot,https://www.transfermarkt.co.uk/cercle-brugge/startseite/verein/520
+4,1-fc-nurnberg,1 Fc Nurnberg,L1,L1,21.98,28,25.2,5,17.9,1,Max-Morlock-Stadion,50000,+-0,Michael Köllner,https://www.transfermarkt.co.uk/1-fc-nurnberg/startseite/verein/4
+38,fortuna-dusseldorf,Fortuna Dusseldorf,L1,L1,24.14,27,25.7,8,29.6,2,MERKUR SPIEL-ARENA,54600,£-1.10m,Friedhelm Funkel,https://www.transfermarkt.co.uk/fortuna-dusseldorf/startseite/verein/38
+3714,enisey-krasnoyarsk,Enisey Krasnoyarsk,RU1,RU1,6.66,29,26.4,1,3.4,1,Zentralstadion Krasnoyarsk,15000,+£900,Dmitri Alenichev,https://www.transfermarkt.co.uk/enisey-krasnoyarsk/startseite/verein/3714
+18105,pfk-lviv,Pfk Lviv,UKR1,UKR1,7.11,25,24.8,8,32.0,1,Arena Lviv,34915,+-0,Andrey Demchenko,https://www.transfermarkt.co.uk/pfk-lviv/startseite/verein/18105
+653,ofi-kreta,Ofi Kreta,GR1,GR1,11.34,30,27.2,16,53.3,3,Gipedo Theodoros Vardinogiannis,9088,+-0,Nikolaos Papadopoulos,https://www.transfermarkt.co.uk/ofi-kreta/startseite/verein/653
+605,aris-thessaloniki,Aris Thessaloniki,GR1,GR1,14.63,32,27.2,19,59.4,2,"Gipedo ""Kleanthis Vikelidis""",22800,+£648Th.,Paco Herrera,https://www.transfermarkt.co.uk/aris-thessaloniki/startseite/verein/605
+130,parma-calcio-1913,Parma Calcio 1913,IT1,IT1,92.3,39,26.1,24,61.5,7,Ennio Tardini,22352,£-24.39m,Roberto D'Aversa,https://www.transfermarkt.co.uk/parma-calcio-1913/startseite/verein/130
+1241,livingston-fc,Livingston Fc,SC1,SC1,7.29,26,26.7,10,38.5,0,Tony Macaroni Arena,9512,+-0,Kenny Miller,https://www.transfermarkt.co.uk/livingston-fc/startseite/verein/1241
+465,st-mirren-fc,St Mirren Fc,SC1,SC1,7.36,24,25.7,12,50.0,1,Simple Digital Arena,8023,+-0,Alan Stubbs,https://www.transfermarkt.co.uk/st-mirren-fc/startseite/verein/465
+9007,arsenal-kiew,Arsenal Kiew,UKR1,UKR1,,0,0.0,0,,0,NSK Olimpisky,70050,+-0,Fabrizio Ravanelli,https://www.transfermarkt.co.uk/arsenal-kiew/startseite/verein/9007
+16239,desna-chernigiv,Desna Chernigiv,UKR1,UKR1,7.56,20,26.1,0,,0,Stadion im. Yuriya Gagarina,12060,+-0,Oleksandr Ryabokon,https://www.transfermarkt.co.uk/desna-chernigiv/startseite/verein/16239
+868,mke-ankaragucu,Mke Ankaragucu,TR1,TR1,10.91,40,25.6,12,30.0,2,Eryaman Stadyumu,20560,+-0,Ismail Kartal,https://www.transfermarkt.co.uk/mke-ankaragucu/startseite/verein/868
+39722,buyuksehir-belediye-erzurumspor,Buyuksehir Belediye Erzurumspor,TR1,TR1,4.01,18,27.7,5,27.8,2,Erzurum Kazım Karabekir,23700,+-0,Mehmet Altiparmak,https://www.transfermarkt.co.uk/buyuksehir-belediye-erzurumspor/startseite/verein/39722
+443,vejle-boldklub,Vejle Boldklub,DK1,DK1,10.53,30,23.6,17,56.7,3,Vejle Stadion,10418,£-1.08m,Adolfo Sormani,https://www.transfermarkt.co.uk/vejle-boldklub/startseite/verein/443
+19657,vendsyssel-ff,Vendsyssel Ff,DK1,DK1,2.61,17,25.4,6,35.3,1,Nord Energi Arena,10000,+-0,Jens Berthel Askou,https://www.transfermarkt.co.uk/vendsyssel-ff/startseite/verein/19657
+89,1-fc-union-berlin,1 Fc Union Berlin,L1,L1,78.57,33,26.5,14,42.4,8,An der Alten Försterei,22012,£-10.26m,Urs Fischer,https://www.transfermarkt.co.uk/1-fc-union-berlin/startseite/verein/89
+2424,gil-vicente-fc,Gil Vicente Fc,PO1,PO1,12.22,31,25.1,22,71.0,1,Estádio Municipal de Barcelos,12504,£-558Th.,Vítor Oliveira,https://www.transfermarkt.co.uk/gil-vicente-fc/startseite/verein/2424
+3911,stade-brest-29,Stade Brest 29,FR1,FR1,65.66,24,25.9,5,20.8,3,Stade Francis-Le Blé,15097,+£9.18m,Olivier Dall'Oglio,https://www.transfermarkt.co.uk/stade-brest-29/startseite/verein/3911
+350,sheffield-united,Sheffield United,GB1,GB1,113.04,27,26.6,13,48.1,8,Bramall Lane,32702,+-0,Chris Wilder,https://www.transfermarkt.co.uk/sheffield-united/startseite/verein/350
+237,rcd-mallorca,Rcd Mallorca,ES1,ES1,41.04,27,28.0,9,33.3,5,Son Moix,20500,+£4.50m,Vicente Moreno,https://www.transfermarkt.co.uk/rcd-mallorca/startseite/verein/237
+3329,fc-famalicao,Fc Famalicao,PO1,PO1,30.15,25,23.7,19,76.0,0,Estádio Municipal de Famalicão,5300,£-1.08m,João Pedro Sousa,https://www.transfermarkt.co.uk/fc-famalicao/startseite/verein/3329
+235,rkc-waalwijk,Rkc Waalwijk,NL1,NL1,7.97,24,25.0,12,50.0,3,Mandemakers Stadion,7508,+£180Th.,Fred Grim,https://www.transfermarkt.co.uk/rkc-waalwijk/startseite/verein/235
+127,sc-paderborn-07,Sc Paderborn 07,L1,L1,13.75,31,24.8,5,16.1,1,Benteler-Arena,15000,+£2.07m,Steffen Baumgart,https://www.transfermarkt.co.uk/sc-paderborn-07/startseite/verein/127
+41201,pfk-tambov,Pfk Tambov,RU1,RU1,,0,0.0,0,,0,Mordovia Arena,44149,+-0,Aleksandr Grigoryan,https://www.transfermarkt.co.uk/pfk-tambov/startseite/verein/41201
+41231,fk-sochi,Fk Sochi,RU1,RU1,27.9,24,28.3,8,33.3,2,Fisht Olympic Stadium,43700,£-3.45m,Aleksandr Tochilin,https://www.transfermarkt.co.uk/fk-sochi/startseite/verein/41231
+48332,kolos-kovalivka,Kolos Kovalivka,UKR1,UKR1,9.29,27,26.4,8,29.6,3,Kolos,5050,+£5Th.,Ruslan Kostyshyn,https://www.transfermarkt.co.uk/kolos-kovalivka/startseite/verein/48332
+60551,sk-dnipro-1,Sk Dnipro 1,UKR1,UKR1,10.89,20,25.1,5,25.0,1,Dnipro-Arena,31003,£-360Th.,Dmytro Mykhaylenko,https://www.transfermarkt.co.uk/sk-dnipro-1/startseite/verein/60551
+833,denizlispor,Denizlispor,TR1,TR1,2.0,14,22.2,1,7.1,0,Denizli Atatürk Stadı,18745,+-0,Yücel Ildiz,https://www.transfermarkt.co.uk/denizlispor/startseite/verein/833
+2832,gaziantep-fk,Gaziantep Fk,TR1,TR1,20.88,28,27.0,12,42.9,4,Kalyon Stadyumu,33502,+-0,Marius Sumudica,https://www.transfermarkt.co.uk/gaziantep-fk/startseite/verein/2832
+60949,volos-nps,Volos Nps,GR1,GR1,5.63,24,25.7,17,70.8,1,Panthessaliko Stadio,22700,+£1.35m,Juan Ferrando,https://www.transfermarkt.co.uk/volos-nps/startseite/verein/60949
+1005,us-lecce,Us Lecce,IT1,IT1,21.38,29,25.8,14,48.3,2,Ettore Giardiniero,31559,£-675Th.,Fabio Liverani,https://www.transfermarkt.co.uk/us-lecce/startseite/verein/1005
+19,brescia-calcio,Brescia Calcio,IT1,IT1,30.24,27,24.5,15,55.6,4,Mario Rigamonti,19550,+£11.61m,Eugenio Corini,https://www.transfermarkt.co.uk/brescia-calcio/startseite/verein/19
+399,leeds-united,Leeds United,GB1,GB1,219.38,24,25.1,13,54.2,8,Elland Road,37890,£-25.02m,Marcelo Bielsa,https://www.transfermarkt.co.uk/leeds-united/startseite/verein/399
+826,rc-lens,Rc Lens,FR1,FR1,70.7,28,24.9,15,53.6,7,Stade Bollaert-Delelis,38223,+£7.83m,Franck Haise,https://www.transfermarkt.co.uk/rc-lens/startseite/verein/826
+3719,fk-khimki,Fk Khimki,RU1,RU1,17.12,23,25.0,6,26.1,1,Arena Khimki,18636,+£33Th.,Sergey Yuran,https://www.transfermarkt.co.uk/fk-khimki/startseite/verein/3719
+3609,rotor-volgograd,Rotor Volgograd,RU1,RU1,8.96,25,25.2,3,12.0,1,Volgograd Arena,45568,£-54Th.,Aleksandr Khatskevich,https://www.transfermarkt.co.uk/rotor-volgograd/startseite/verein/3609
+4294,sc-farense,Sc Farense,PO1,PO1,11.27,26,25.4,16,61.5,3,Estádio São Luís,15000,+-0,Sérgio Vieira,https://www.transfermarkt.co.uk/sc-farense/startseite/verein/4294
+2687,fc-cadiz,Fc Cadiz,ES1,ES1,43.09,27,28.6,11,40.7,7,Nuevo Mirandilla,21094,£-5.31m,Álvaro Cervera,https://www.transfermarkt.co.uk/fc-cadiz/startseite/verein/2687
+1531,fc-elche,Fc Elche,ES1,ES1,28.4,19,29.1,6,31.6,1,Manuel Martínez Valero,33732,£-5.40m,Jorge Almirón,https://www.transfermarkt.co.uk/fc-elche/startseite/verein/1531
+41274,beerschot-v-a-,Beerschot V A,BE1,BE1,19.51,28,25.3,14,50.0,4,Olympisch Stadion,12771,£-810Th.,Hernán Losada,https://www.transfermarkt.co.uk/beerschot-v-a-/startseite/verein/41274
+10,arminia-bielefeld,Arminia Bielefeld,L1,L1,39.74,25,24.6,14,56.0,2,SchücoArena,26515,£-3.78m,Uwe Neuhaus,https://www.transfermarkt.co.uk/arminia-bielefeld/startseite/verein/10
+61825,fk-minaj,Fk Minaj,UKR1,UKR1,1.71,11,23.2,4,36.4,2,Avangard,12000,+-0,Vasyl Kobin,https://www.transfermarkt.co.uk/fk-minaj/startseite/verein/61825
+49364,ingulets-petrove,Ingulets Petrove,UKR1,UKR1,5.38,26,27.0,5,19.2,0,Zirka,13305,+-0,Sergiy Lavrynenko,https://www.transfermarkt.co.uk/ingulets-petrove/startseite/verein/49364
+48726,rukh-lviv,Rukh Lviv,UKR1,UKR1,5.67,22,26.6,2,9.1,1,Arena Lviv,34512,+£252Th.,Ivan Fedyk,https://www.transfermarkt.co.uk/rukh-lviv/startseite/verein/48726
+7775,hatayspor,Hatayspor,TR1,TR1,23.92,26,26.3,11,42.3,5,Antakya Atatürk Stadı,5583,£-501Th.,Mehmet Altiparmak,https://www.transfermarkt.co.uk/hatayspor/startseite/verein/7775
+3522,spezia-calcio,Spezia Calcio,IT1,IT1,35.96,25,24.1,14,56.0,5,Alberto Picco,10336,£-5.22m,Vincenzo Italiano,https://www.transfermarkt.co.uk/spezia-calcio/startseite/verein/3522
+6646,fatih-karagumruk,Fatih Karagumruk,TR1,TR1,24.14,31,26.6,14,45.2,2,Atatürk Olimpiyat Stadı,76092,+-0,Senol Can,https://www.transfermarkt.co.uk/fatih-karagumruk/startseite/verein/6646
+65,spvgg-greuther-furth,Spvgg Greuther Furth,L1,L1,27.2,28,23.9,9,32.1,1,Sportpark Ronhof | Thomas Sommer,16626,+£2.48m,Stefan Leitl,https://www.transfermarkt.co.uk/spvgg-greuther-furth/startseite/verein/65
+80,vfl-bochum,Vfl Bochum,L1,L1,33.3,31,27.2,16,51.6,5,Vonovia Ruhrstadion,27599,+£315Th.,Thomas Reis,https://www.transfermarkt.co.uk/vfl-bochum/startseite/verein/80
+3840,adana-demirspor,Adana Demirspor,TR1,TR1,24.44,26,27.3,14,53.8,3,Yeni Adana Stadyumu,33000,£-1.26m,Samet Aybaba,https://www.transfermarkt.co.uk/adana-demirspor/startseite/verein/3840
+2375,altay-sk,Altay Sk,TR1,TR1,13.21,32,29.1,16,50.0,3,Bornova Aziz Kocaoğlu Stadyumu,9138,£-1.74m,Mustafa Denizli,https://www.transfermarkt.co.uk/altay-sk/startseite/verein/2375
+11688,giresunspor,Giresunspor,TR1,TR1,19.51,32,26.0,14,43.8,1,Çotanak Spor Kompleksi,22028,£-90Th.,Hakan Keles,https://www.transfermarkt.co.uk/giresunspor/startseite/verein/11688
+380,us-salernitana-1919,Us Salernitana 1919,IT1,IT1,27.47,29,26.6,14,48.3,8,Arechi,31300,£-720Th.,Fabrizio Castori,https://www.transfermarkt.co.uk/us-salernitana-1919/startseite/verein/380
+553,ionikos-nikeas,Ionikos Nikeas,GR1,GR1,7.79,27,27.3,13,48.1,1,Dimotiko Gipedo Neapolis,5500,+-0,Dimitrios Spanos,https://www.transfermarkt.co.uk/ionikos-nikeas/startseite/verein/553
+607,venezia-fc,Venezia Fc,IT1,IT1,37.78,36,25.8,18,50.0,7,Pier Luigi Penzo,7426,£-9.62m,Paolo Zanetti,https://www.transfermarkt.co.uk/venezia-fc/startseite/verein/607
+6912,fc-vizela,Fc Vizela,PO1,PO1,10.53,28,25.8,16,57.1,1,Estádio do Vizela,6565,+£118Th.,Álvaro Pacheco,https://www.transfermarkt.co.uk/fc-vizela/startseite/verein/6912
+2715,rfc-seraing,Rfc Seraing,BE1,BE1,5.42,26,23.6,13,50.0,2,Stade du Paray,6744,+-0,Jordi Condom,https://www.transfermarkt.co.uk/rfc-seraing/startseite/verein/2715
+3524,clermont-foot-63,Clermont Foot 63,FR1,FR1,24.21,28,25.9,15,53.6,8,Stade Gabriel-Montpied,13000,+-0,Pascal Gastien,https://www.transfermarkt.co.uk/clermont-foot-63/startseite/verein/3524
+3948,royale-union-saint-gilloise,Royale Union Saint Gilloise,BE1,BE1,13.88,25,25.1,17,68.0,3,Stade Joseph Mariën,8000,+-0,Felice Mazzu,https://www.transfermarkt.co.uk/royale-union-saint-gilloise/startseite/verein/3948
+49702,fk-nizhny-novgorod,Fk Nizhny Novgorod,RU1,RU1,12.6,23,26.5,5,21.7,2,Nizhny Novgorod Stadium,43319,£-132Th.,Aleksandr Kerzhakov,https://www.transfermarkt.co.uk/fk-nizhny-novgorod/startseite/verein/49702
+1148,fc-brentford,Fc Brentford,GB1,GB1,151.43,32,24.0,26,81.3,12,Brentford Community Stadium,18250,£-34.38m,Thomas Frank,https://www.transfermarkt.co.uk/fc-brentford/startseite/verein/1148
+55686,metalist-1925-kharkiv,Metalist 1925 Kharkiv,UKR1,UKR1,4.82,27,26.4,4,14.8,0,OSK Metalist,40003,+-0,Valeriy Kryventsov,https://www.transfermarkt.co.uk/metalist-1925-kharkiv/startseite/verein/55686
